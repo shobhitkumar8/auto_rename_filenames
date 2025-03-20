@@ -263,6 +263,6 @@ def rename_files_in_directory(parent_directory):
                         print("Error: 'original' or 'name' attribute is missing in a <file> element in the XML.")
 
 # Usage example
-parent_directory = r'C:\Users\shobkuma\OneDrive - Capgemini\Desktop\Export\GPPAL1RE GP Palatka PM1 rebuild\002'  # Specify your parent directory path here
+parent_directory = r''  # Specify your parent directory path here
 rename_files_in_directory(parent_directory)
 
